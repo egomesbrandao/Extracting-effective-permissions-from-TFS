@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/Source/PermissionsExtractionTool/packages
+/Source/PermissionsExtractionTool/.nuget/nuget.exe
